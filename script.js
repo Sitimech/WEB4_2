@@ -1,5 +1,3 @@
-console.log('start');
-
 var variant = 11 % 6 + 1;
 document.getElementById("variant").innerHTML = variant;
 
